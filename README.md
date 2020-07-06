@@ -1,1 +1,1 @@
-# brain_hemorrhage_detection
+# Brain Hemorrhage Detection
